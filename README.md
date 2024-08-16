@@ -17,5 +17,7 @@ LangChain offers various prompt templates, including:
 - **Chat Prompt Template:** Designed for natural and engaging dialogue generation.
 - **Instruction Extractor Template:** Detailed prompts that guide the model to extract and follow instructions.
 
-## Output Parsing in LLM Chains
+## Output Parsing using LLM Chains
 LangChain’s output parsers provide a way to enforce specific formatting rules. For instance, by using a JSON-based approach, we ensure the model returns data in a structured format that can be easily parsed and validated. The parser handles edge cases, such as inconsistent delimiters or extra whitespace, which are common issues when dealing with free-form text.
+
+
