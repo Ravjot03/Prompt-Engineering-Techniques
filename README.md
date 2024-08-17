@@ -21,3 +21,5 @@ LangChain offers various prompt templates, including:
 LangChain’s output parsers provide a way to enforce specific formatting rules. For instance, by using a JSON-based approach, we ensure the model returns data in a structured format that can be easily parsed and validated. The parser handles edge cases, such as inconsistent delimiters or extra whitespace, which are common issues when dealing with free-form text.
 
 This [jupyter notebook](https://github.com/Ravjot03/Prompt-Engineering-Techniques/blob/main/OutputParsing_in_LLMChains.ipynb) - illustrates how prompt engineering and structured output generation can be optimized. By leveraging JSON and chaining techniques, we can build powerful, scalable solutions that produce clean, reliable outputs.
+
+Medium Blog - [Link]()
