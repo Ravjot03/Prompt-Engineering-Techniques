@@ -22,4 +22,4 @@ LangChain’s output parsers provide a way to enforce specific formatting rules.
 
 This [jupyter notebook](https://github.com/Ravjot03/Prompt-Engineering-Techniques/blob/main/OutputParsing_in_LLMChains.ipynb) - illustrates how prompt engineering and structured output generation can be optimized. By leveraging JSON and chaining techniques, we can build powerful, scalable solutions that produce clean, reliable outputs.
 
-Medium Blog - [Link](https://medium.com/@ravjot03/from-chaos-to-clarity-how-i-improved-llm-output-consistency-with-langchain-399ec53613d1)
+Medium Blog - [From Chaos to Clarity: How I Improved LLM Output Consistency with LangChain](https://medium.com/@ravjot03/from-chaos-to-clarity-how-i-improved-llm-output-consistency-with-langchain-399ec53613d1)
